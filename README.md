@@ -1,4 +1,4 @@
-# Assignment 9
+# Assignment 8
 CSCI 1360: Foundations for Informatics and Analytics
 
 ## Important Dates
